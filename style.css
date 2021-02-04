@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+}
+.main_box{
+    background: blue;
+    color: white;
+    text-align: center;
+    width: 45%;
+    position: relative;
+    font-size: 35px;
+    left: 25%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    height: 555px;
+    border-radius: 15%;
+    margin-top: 4%;
+}
+#list_stuff{
+    width: 75%;
+    height: 1%;
+    border: black solid;
+    font-size: 20px;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+    position: relative;
+}
+#add_but{
+    width: 15%;
+    height: 40px;
+    font-size: 1.25rem;
+    font-weight: bold;
+    background-color: #73E531;
+    color: black;
+    border: none;
+    position: relative;
+    border-radius: 65%;
+}
+.todo{
+    font-size: 20px;
+    position: relative;
+    left: 4%;
+    margin-top: 8%;
+    text-align: left;
+}
+.item_ip{
+    width: 65%;
+    height: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: none;
+    outline: none;
+    border: none;
+    margin-top: 5%;
+
+}
+.deleter{
+    margin-left: 13%;
+    height: 32px;
+    font-size: medium;
+    background-color: brown;
+    color: white;
+    width: 80px;
+    border-radius: 65%;
+}
